@@ -1,0 +1,11 @@
+.w-fill {
+    width: -webkit-fill-available;
+    width: -moz-available;
+    width: fill-available;
+}
+
+.h-fill {
+    height: -webkit-fill-available;
+    height: -moz-available;
+    height: fill-available;
+}
